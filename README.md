@@ -1,16 +1,15 @@
 # Netflix_Analysis
 In this project I have worked on a real project of Data Analysis with Python. Questions are given in the project and then solved with the help of Python. It is a project of Data Analysis with Python or you can say, Data Science with Python.
 <br />
-<br />
-Following operations have been performed in this project.
+
+## Following operations have been performed in this project.
 1. Data cleaning
 2. Creating New Columns & Dataframe
 3. Filtering (Single Column & Multiple Columns)
 4. Filtering with And and OR
 5. Seaborn Library - Bar Graphs
-<br />
-<br />
-The commands that we used in this project :
+
+## The commands that we used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
@@ -34,10 +33,7 @@ The commands that we used in this project :
 * sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
 * max( ), min( ) - It shows the maximum/minimum value of the series.
 * mean( ) - It shows the mean value of the series.
-<br />
-<br />
-In my analysis I have covered the following questions and have tried to answer them.
-
+## In my analysis I have covered the following questions and have tried to answer them.
 Task. 1) Is there any Duplicate Record in this dataset ? If yes, then remove the duplicate records.
 <br />
 Task. 2) Is there any Null Value present in any column ? Show with Heat-map.
